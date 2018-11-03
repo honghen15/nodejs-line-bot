@@ -33,10 +33,12 @@ nock(line).get(`/group/${groupId}/members/ids?start=token3`).reply(200, {
 
 nock(line).post(`/group/${groupId}/leave`).reply(200, {});
 
+const config = require(".././config");
+
 const bot = linebot({
-    channelId: 1234567890,
-    channelSecret: 'secret',
-    channelAccessToken: 'token'
+    channelId: config.line.id,
+    channelSecret: config.line.secret,
+    channelAccessToken: config.line.access_token
 });
 
 describe('Group', function() {
