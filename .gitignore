@@ -2,4 +2,4 @@
 config.json
 
 # neglect .idea
-.idea
+.idea/

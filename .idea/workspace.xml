@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2419882-8103-44c7-a5d2-1b47eea0df22" name="Default Changelist" comment="new a directory &quot;test&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/room.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/room.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,6 +42,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="js" value="74" />
           <entry key="json" value="90" />
           <entry key="txt" value="45" />
@@ -53,7 +53,7 @@
         <counts>
           <entry key="JSON" value="90" />
           <entry key="JavaScript" value="79" />
-          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -119,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/room.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+            <state relative-caret-position="326">
+              <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -164,6 +164,7 @@
         <option value="$PROJECT_DIR$/config.json" />
         <option value="$PROJECT_DIR$/test/message.js" />
         <option value="$PROJECT_DIR$/test/room.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -243,7 +244,7 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541254628262" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541254734309" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.12.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="node" />
@@ -322,7 +323,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9721000" />
+    <option name="totallyTimeSpent" value="9926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
@@ -444,8 +445,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/room.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="69" column="3" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        <state relative-caret-position="326">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
         </state>
       </provider>
     </entry>
