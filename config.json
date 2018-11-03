@@ -2,5 +2,12 @@
   "env": {
     "MONGO_USERNAME": "honghen",
     "MONGO_PW" : ""
+  },
+
+  "line": {
+    "id": "12345678",
+    "secret": "abcdefgh",
+    "access_token": "qaz123wsx456"
+
   }
 }
