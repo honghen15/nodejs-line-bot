@@ -1,0 +1,5 @@
+# neglect config.json
+config.json
+
+# neglect .idea folder
+.idea/
